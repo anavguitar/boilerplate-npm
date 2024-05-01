@@ -1,7 +1,7 @@
 {
   "name": "managing-packages-with-npm",
   "dependencies": {
-    "@freecodecamp/example": "1.2.13"
+    "@freecodecamp/example": "~1.2.13"
   },
   "version": "1.0.0",
   "description": "this is my first JSON package project",
